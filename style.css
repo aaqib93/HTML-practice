@@ -22,7 +22,8 @@ table, th, td
   color: white; /* White text color */
 }
 
-.html {width: 90%; background-color: #4CAF50;} /*Green*/
+.html {width: 90%; background-color: #4CAF50;}
+.seo {width: 90%; background-color: #4CAF50;} /*Green*/
 .css {width: 80%; background-color: #4CAF50;}
 .js {width: 65%; background-color: #4CAF50;}
 .python {width: 90%; background-color: #4CAF50;}
