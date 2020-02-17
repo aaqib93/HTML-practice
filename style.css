@@ -11,14 +11,14 @@ table, th, td
 
 /* Container for skill bars */
 .container {
-  width: 80%; /* Full width */
+  width: 60%; /* Full width */
   background-color: #ddd; /* Grey background */
 }
 
 .skills {
   text-align: center; /* Right-align text */
-  padding-top: 10px; /* Add top padding */
-  padding-bottom: 10px; /* Add bottom padding */
+  padding-top: 5px; /* Add top padding */
+  padding-bottom: 5px; /* Add bottom padding */
   color: white; /* White text color */
 }
 
